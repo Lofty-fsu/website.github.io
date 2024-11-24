@@ -1,0 +1,186 @@
+
+body{
+  background-color: #0d2e31;
+}
+
+.name
+{
+  
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: bold;
+  vertical-align: top;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: rgb(79, 79, 246);
+}
+
+.basketball
+{
+  color: yellow;
+  font-weight: bold;
+}
+
+.quote
+{
+  color: yellow;
+  font-weight: bold;
+}
+
+.description
+{
+  font-family: Arial;
+  font-size: 18px;
+  color: white;
+}
+
+.line 
+{
+  color: white;
+  margin-bottom: 30px;
+}
+
+.class
+{
+  color: rgb(79, 79, 246);
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.timetable1
+{
+  font-family: Arial;
+  color:white;
+  font-size: 18px;
+  margin-bottom: 0;
+  margin-left: 10px;
+}
+
+.timetable2
+{
+  font-family: Arial;
+  color:white;
+  font-size: 18px;
+  margin-top: 4px;
+  margin-bottom: 0;
+  margin-left: 10px;
+}
+
+.timetable3
+{
+  font-family: Arial;
+  color:white;
+  font-size: 18px;
+  margin-left: 10px;
+  margin-top: 4px;
+  margin-bottom: 0;
+}
+
+.timetable4
+{
+  font-family: Arial;
+  color:white;
+  font-size: 18px;
+  margin-left: 10px;
+  margin-top: 4px;
+  margin-bottom: 0;
+}
+
+.movies_intro
+{
+  color: rgb(79, 79, 246);
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: bold;
+  vertical-align: top;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.description
+{
+  font-family: Arial;
+  color:white;
+  font-size: 14px;
+}
+
+.Stranger-things
+{
+  font-family: Arial;
+  color:white;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-bottom: 3px;
+}
+
+.Money-heist
+{
+  font-family: Arial;
+  color:white;
+  font-weight: bold;
+  margin-top: 0;
+  margin-left: 10px;
+  margin-bottom: 3px;
+}
+
+.Lupin
+{
+  font-family: Arial;
+  color:white;
+  font-weight: bold;
+  margin-top: 0;
+  margin-left: 10px;
+}
+
+.ST
+{
+  color: red;
+  margin-left: 3px;
+}
+
+.MH
+{
+  color: red;
+  margin-left: 3px;
+}
+
+.L
+{
+  color: red;
+  margin-left: 3px;
+}
+
+.mood
+{
+  color: rgb(79, 79, 246);
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: bold;
+  vertical-align: top;
+  margin-bottom: 0px; 
+
+}
+
+.batman
+{
+  border-radius: 12px;
+  height: 200px;
+}
+
+.cat
+{
+  height: 200px;
+  margin-left: 4px;
+  border-radius: 12px;
+}
+
+.night
+{
+  color: white;
+  font-family: Arial;
+  margin-bottom: 100px;
+}
+
